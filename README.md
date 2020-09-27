@@ -1,6 +1,6 @@
 
 
-# Evolução dos container
+# Anotações
 
 - Antigamente cada aplicação era hospedada em um servidor específico
 Problema: servidores ociosos // solução: virtualização
